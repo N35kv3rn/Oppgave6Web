@@ -1,3 +1,5 @@
+// Fikk ikke til å fjerne todo's via complete knappen. Resten skal fungere som forventet
+
 import './App.css';
 import Navbar from './components/Navbar';
 import Form from './components/Form';
