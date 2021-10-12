@@ -1,0 +1,16 @@
+.Container {
+    /*display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;*/
+    margin: 2rem 0 6rem 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.todo {
+    margin: 2rem;
+}
+
+#TodosTitle {
+    text-align: left;
+}

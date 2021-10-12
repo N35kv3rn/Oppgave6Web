@@ -1,0 +1,37 @@
+header {
+    box-shadow: 0 2px 8px 0 rgba(0,0,0,.2);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FFFFFF;
+}
+  
+li {
+    float: left;
+}
+  
+li .navbar {
+    display: block;
+    color: #333333;
+    text-align: center;
+    padding: 5px 30px;
+    text-decoration: none;
+}
+
+#right {
+    float: right;
+}
+
+#maintitle {
+    font-weight: 900;
+    font-size: 1.2rem;
+}
+
+#user {
+    font-weight: 500;
+    font-size: 1.2rem;
+}
